@@ -6,7 +6,18 @@
 🔭 I’m currently learning C++ and HTML<br>🤝 I’m looking forward to share my projects with everyone<br/>
 🧑‍💻 Computer Engineering Student aiming for improving my skills and learning in tech!<br/>
 🧑‍🎓 Studying Computer Engineering at the [KOSEN](https://youtube.com/@kosenkmitl4469?si=NiPaidrvz127G_vk) of KMITL University, Thailand<br/>
+🤖 Interested in Machine Learning<br/>
+🕺 Hobby: Singing and Dancing!
 
+## 💾 Projects:
+### Serious projects:
+None
+### School Projects:
+-Calculator (Tkinter)<br/>
+-Movie rating (Sklearn)<br/>
+## 🥅 GOAL!
+Aiming to improve my skills by making projects!
+Any comments are accepted! feel free to contact me
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/teteh_teethat) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tetehteethat@gmail.com) 
@@ -23,4 +34,8 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## Contact
-tetehteethat@gmail.com
+for work :tetehteethat@gmail.com
+
+# Quote
+ "A chicken pecks a child to death on the mouth of a large jar"<br/>
+ <img width="604" height="679" alt="Screenshot 2025-11-13 105744" src="https://github.com/user-attachments/assets/cffa2a10-d5e8-4d33-ac99-cc3d6f301e48" />
